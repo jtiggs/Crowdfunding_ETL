@@ -1,9 +1,10 @@
 # GP02-Crowdfunding_ETL
 
 ## File Location
-- 
-- 
-- 
+- In 'Resources' you can find the output csvs as well as the contacts and crowdfunding excel files
+- In the main you can find the ETL_Mini_Project jupyter notebook as well as the db_schema
+- In Imaages you can find the ERD diagram as well as images of the tables 
+- In Images/instructional_images there are a few images I used for the readme
 
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
@@ -21,7 +22,7 @@ A "category" column that contains only the category titles
 
 The following image shows this category DataFrame:
 
-![category_DataFrame](Images/category_DataFrame.png)
+![category_DataFrame](Images/instrucional_images/category_DataFrame.png)
 
 Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -33,7 +34,7 @@ A "subcategory" column that contains only the subcategory titles
 
 The following image shows this subcategory DataFrame:
 
-![subcategory_DataFrame](Images/subcategory_DataFrame.png)
+![subcategory_DataFrame](Images/instrucional_images/subcategory_DataFrame.png)
 
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
@@ -70,7 +71,7 @@ The "subcategory_id" column, with the unique identification numbers matching tho
 
 The following image shows this campaign DataFrame:
 
-![category_DataFrame](Images/campaign_DataFrame.png)
+![category_DataFrame](Images/instrucional_images/campaign_DataFrame.png)
 
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
@@ -101,7 +102,7 @@ Split each "name" column value into a first and a last name, and place each in a
 Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 Check that your final DataFrame resembles the one in the following image:
 
-![contact_DataFrame](Images/contact_DataFrame_final.png)
+![contact_DataFrame](Images/instrucional_images/contact_DataFrame_final.png)
 
 Create the Crowdfunding Database
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
