@@ -22,7 +22,7 @@ A "category" column that contains only the category titles
 
 The following image shows this category DataFrame:
 
-![category_DataFrame](Images/Instrucional_images/category_DataFrame.png)
+![category_DataFrame](Images/Instructional_images/category_DataFrame.png)
 
 Export the category DataFrame as category.csv and save it to your GitHub repository.
 
@@ -34,7 +34,7 @@ A "subcategory" column that contains only the subcategory titles
 
 The following image shows this subcategory DataFrame:
 
-![subcategory_DataFrame](Images/Instrucional_images/subcategory_DataFrame.png)
+![subcategory_DataFrame](Images/Instructional_images/subcategory_DataFrame.png)
 
 Export the subcategory DataFrame as subcategory.csv and save it to your GitHub repository.
 
@@ -71,7 +71,7 @@ The "subcategory_id" column, with the unique identification numbers matching tho
 
 The following image shows this campaign DataFrame:
 
-![category_DataFrame](Images/Instrucional_images/campaign_DataFrame.png)
+![category_DataFrame](Images/Instructional_images/campaign_DataFrame.png)
 
 Export the campaign DataFrame as campaign.csv and save it to your GitHub repository.
 
@@ -102,7 +102,7 @@ Split each "name" column value into a first and a last name, and place each in a
 Clean and then export the DataFrame as contacts.csv and save it to your GitHub repository.
 Check that your final DataFrame resembles the one in the following image:
 
-![contact_DataFrame](Images/Instrucional_images/contact_DataFrame_final.png)
+![contact_DataFrame](Images/Instructional_images/contact_DataFrame_final.png)
 
 Create the Crowdfunding Database
 Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBDLinks to an external site..
